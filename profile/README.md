@@ -1,4 +1,4 @@
-![Header](./github-header.png)
+![Header](/profile/github-header.png)
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=casiebarie&theme=java-dark&hide_border=true&background=DD272700" alt="casiebarie" /></p>
 
